@@ -2,15 +2,21 @@
 
 A secure, responsive full-stack web application for daily mental health check-ins.
 
+## Deployment
+
+This project is deployed on [Vercel](https://vercel.com). ▲
+
+Deployment link - https://mental-health-checkin-app.vercel.app ▶️
+
 
 ## 📋 Features
 
-- 🔐 Secure user authentication with JWT
-- 📝 Daily mental health check-ins
-- 🔒 Encrypted journal entries
-- 📊 Mood tracking visualization
-- 📱 Fully responsive design
-- 🎨 Modern UI with Tailwind CSS
+-  Secure user authentication with JWT 🔐
+-  Daily mental health check-ins 📝
+-  Encrypted journal entries 🔒
+-  Mood tracking visualization 📊
+-  Fully responsive design  📱
+-  Modern UI with Tailwind CSS 🎨
 
 ## 🛠️ Tech Stack
 
@@ -34,45 +40,41 @@ A secure, responsive full-stack web application for daily mental health check-in
 ### Prerequisites
 - Node.js (v14 or higher)
 - MongoDB (local or Atlas)
-- npm or yarn
 
 ### Installation
 
-1. Clone the repository:
-\`\`\`bash
+# 1. Navigate to the project directory:
+   ```bash
+   cd mental-health-checkin 🗂️
+   ```
+# 2. Install server dependencies:
 
-cd mental-health-checkin
-\`\`\`
-
-2. Install dependencies:
-\`\`\`bash
-# Install server dependencies
-cd server
+```bash
+cd server ⚙️
 npm install
+ ```
 
-# Install client dependencies
-cd ../client
+# 3. Install client dependencies
+```bash
+cd client 🎮
 npm install
-\`\`\`
-
-3. Set up environment variables:
-
+ ```
+# 4. Set up environment variables:
+```bash
 Create `.env` in server directory:
-\`\`\`env
+
 PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ENCRYPTION_KEY=your_32_character_key
-\`\`\`
+```
 
-4. Run the application:
-\`\`\`bash
 # Run backend (from server directory)
-npm run dev
+npm run dev ▶️
 
 # Run frontend (from client directory)
-npm start
-\`\`\`
+npm start 🔥
+
 
 ## 📱 Screenshots
 
