@@ -1,6 +1,6 @@
 # Mental Health Check-in Web Application 🧠
 
-A secure, responsive full-stack web application for daily mental health check-ins.
+A responsive full-stack web application for daily mental health check-ins.
 
 ## Deployment
 
