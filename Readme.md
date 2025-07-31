@@ -2,12 +2,6 @@
 
 A secure, responsive full-stack web application for daily mental health check-ins.
 
-![Mental Health App Banner](https://via.placeholder.com/800x200?text=Mental+Health+Check-in+App)
-
-## 🚀 Live Demo
-
-- **Frontend**: [https://mental-health-checkin-app.vercel.app](https://mental-health-checkin-app.vercel.app)
-- **Backend API**: [https://mental-health-checkin-app-gxdy.vercel.app](https://mental-health-checkin-app-gxdy.vercel.app)
 
 ## 📋 Features
 
