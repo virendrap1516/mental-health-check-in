@@ -1,0 +1,15 @@
+{
+  "name": "mental-health-checkin",
+  "version": "1.0.0",
+  "description": "Mental Health Check-in Application",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "tailwindcss": "^4.1.11"
+  }
+}
