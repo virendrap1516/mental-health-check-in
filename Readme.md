@@ -76,7 +76,20 @@ npm run dev ▶️
 npm start 🔥
 
 
-## 📱 Screenshots
+##  Screenshots 📱
+
+### Dashboard
+![Dashboard](https://github.com/virendrap1516/mental-health-check-in/blob/main/client/src/img/Screenshot%202025-07-31%20185422.png)
+
+### register 
+![register](https://github.com/virendrap1516/mental-health-check-in/blob/main/client/src/img/Screenshot%202025-07-31%20190212.png)  
+
+### login 
+![login](https://github.com/virendrap1516/mental-health-check-in/blob/main/client/src/img/Screenshot%202025-07-31%20190150.png)  
+
+
+
+
 
 
 
