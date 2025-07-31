@@ -76,14 +76,9 @@ npm start
 
 ## 📱 Screenshots
 
-![Dashboard](https://via.placeholder.com/600x400?text=Dashboard+Screenshot)
-![Check-in Form](https://via.placeholder.com/600x400?text=Check-in+Form)
 
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
 
 
